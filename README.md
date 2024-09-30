@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FernandoGuillen-lab
+- 👋 Hi, I’m Fernando Guillén Aldape
 - 👀 I’m interested in data science proyects
-- 🌱 I’m currently learning data science amd python
-- 💞️ I’m looking to collaborate on projects realted to data science to improve my skills
+- 🌱 I’m certified as data science and python
+- 💞️ I’m looking to collaborate on projects realted to data science 
 
 
 <!---
